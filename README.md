@@ -235,6 +235,10 @@ https://drive.google.com/file/d/1cygqdlrsp29-9XOqmLL-6AqcHD_WgrN8/view?usp=drive
 
 https://drive.google.com/file/d/17xIvLtXo0QYJiofLJneJzOwbbkEm0sXT/view?usp=drivesdk  — Architecture diagram
 
+https://drive.google.com/file/d/1ASrzW3_N-vkMetb7lZ1onKH7vvsy3B9A/view?usp=drivesdk - Settings
+
+https://drive.google.com/file/d/19RhtIYiqhfW-GES7FHY30qUnOfesGieQ/view?usp=drivesdk - History
+
 ---
 
 ## Future Improvements
