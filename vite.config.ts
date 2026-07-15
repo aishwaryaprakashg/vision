@@ -9,6 +9,11 @@ export default defineConfig({
     VitePWA({
       registerType: "autoUpdate",
       includeAssets: ["favicon.svg", "apple-touch-icon.png"],
+      devOptions: {
+        enabled: true,
+        type: "module",
+        navigateFallback: "index.html",
+      },
       manifest: {
         name: "VisionAI Studio",
         short_name: "VisionAI",
@@ -42,6 +47,7 @@ export default defineConfig({
       workbox: {
         globPatterns: ["**/*.{js,css,html,svg,png,ico,woff,woff2,ttf,eot}"],
         maximumFileSizeToCacheInBytes: 8 * 1024 * 1024,
+        navigateFallback: "index.html",
         runtimeCaching: [
           {
             // Google Fonts CSS
