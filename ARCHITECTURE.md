@@ -46,6 +46,23 @@ Classification   OCR      Image Metadata
 6. Results are displayed in the dashboard.
 7. Reports and history are stored locally.
 
+## Offline Execution
+
+Internet Required:
+- First-time download of MobileNet model
+- First-time download of Tesseract language files
+
+Works Completely Offline:
+- Image upload
+- Image classification
+- OCR
+- Report generation
+- History
+- PWA interface
+
+User Data:
+- Never leaves the device
+
 ## Design Decisions
 
 - Browser-only architecture
