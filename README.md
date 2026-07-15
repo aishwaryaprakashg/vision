@@ -48,6 +48,18 @@ Traditional AI image analysis often relies on cloud processing, increasing laten
 
 ---
 
+## Offline Support
+
+VisionAI Studio is a Progressive Web App (PWA).
+
+- First launch requires internet to download the AI models.
+- MobileNet and Tesseract assets are cached locally.
+- After the first successful run, image classification and OCR work completely offline.
+- No cloud inference or external AI APIs are used.
+- User images never leave the browser.
+
+---
+
 ## Features
 
 - **Premium landing page** — Hero, Features, How It Works, Why On-Device AI,
