@@ -58,3 +58,5 @@ Tested on modern Chromium-based browsers supporting:
 - Additional on-device AI models
 - Batch image analysis
 - Enhanced OCR language support
+
+After the initial model download, VisionAI Studio performs all AI inference locally using TensorFlow.js and Tesseract.js. No external API calls are made during image analysis.
