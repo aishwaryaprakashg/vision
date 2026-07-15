@@ -225,8 +225,6 @@ src/
 
 ## Screenshots
 
-> Screenshots will be added here.
-> 
 https://drive.google.com/file/d/1v-LN-z8UK2O0Uv6KDsJXlKKmWFzsxL3H/view?usp=drivesdk — Landing page hero
 
 https://drive.google.com/file/d/12A2B5yIOlLRhiXmASAeuD4oNxeT3NKCb/view?usp=drivesdk — Dashboard with analysis
@@ -247,7 +245,6 @@ https://drive.google.com/file/d/17xIvLtXo0QYJiofLJneJzOwbbkEm0sXT/view?usp=drive
   before analysis.
 - **Batch analysis** — Upload multiple images and analyze them in sequence.
 - **Export formats** — PDF and JSON report export in addition to TXT.
-- **PWA / offline install** — Service worker for full offline installability.
 - **WebGPU backend** — Use the experimental WebGPU backend for TensorFlow.js
   where supported.
 - **Confidence calibration** — Display per-category confidence distributions.
