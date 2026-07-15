@@ -6,6 +6,16 @@ Built for the **On-Device AI Hackathon**.
 
 ---
 
+## 🚀 Live Demo
+
+https://vision-eta-lilac.vercel.app/
+
+## 🎥 Demo Video
+
+https://youtu.be/1yE1UqXfiB4?si=Hf9lMig83x3jp1FX
+
+---
+
 ## Overview
 
 VisionAI Studio is a production-ready, browser-based application that performs
@@ -16,6 +26,25 @@ inside the browser.
 
 The app is designed to feel like a premium AI startup product — inspired by
 Apple, Linear, Vercel, and Arc Browser — with a dark, glassmorphic, animated UI.
+
+---
+
+## Why VisionAI?
+
+Traditional AI image analysis often relies on cloud processing, increasing latency and raising privacy concerns. VisionAI Studio performs AI inference directly inside the browser using TensorFlow.js and Tesseract.js, enabling fast, private, and offline-capable image analysis without transmitting user data.
+
+---
+
+## ✨ Highlights
+
+- 🔒 100% On-Device AI
+- 🌐 Offline-capable Progressive Web App
+- 🧠 TensorFlow.js MobileNet v2
+- 📝 Tesseract.js OCR
+- 📄 AI Report Generation
+- 📜 Local History
+- 🎨 Premium Glassmorphism UI
+- ⚡ No Backend Required
 
 ---
 
@@ -197,12 +226,16 @@ src/
 ## Screenshots
 
 > Screenshots will be added here.
+> 
+https://drive.google.com/file/d/1v-LN-z8UK2O0Uv6KDsJXlKKmWFzsxL3H/view?usp=drivesdk — Landing page hero
 
-- `docs/screenshots/landing.png` — Landing page hero
-- `docs/screenshots/dashboard.png` — Dashboard with analysis
-- `docs/screenshots/history.png` — History page
-- `docs/screenshots/architecture.png` — Architecture diagram
-- `docs/screenshots/settings.png` — Settings page
+https://drive.google.com/file/d/12A2B5yIOlLRhiXmASAeuD4oNxeT3NKCb/view?usp=drivesdk — Dashboard with analysis
+
+https://drive.google.com/file/d/1YK1-RpzSUefaj6X-1dlwP6oTmDQYofy8/view?usp=drivesdk — Dashboard with analysis
+
+https://drive.google.com/file/d/1cygqdlrsp29-9XOqmLL-6AqcHD_WgrN8/view?usp=drivesdk  — Architecture diagram
+
+https://drive.google.com/file/d/17xIvLtXo0QYJiofLJneJzOwbbkEm0sXT/view?usp=drivesdk  — Architecture diagram
 
 ---
 
@@ -218,6 +251,14 @@ src/
 - **WebGPU backend** — Use the experimental WebGPU backend for TensorFlow.js
   where supported.
 - **Confidence calibration** — Display per-category confidence distributions.
+
+---
+
+## Acknowledgements
+
+This project was built using open-source technologies including React, Vite, TensorFlow.js, MobileNet v2, Tesseract.js, Tailwind CSS, Framer Motion, and Lucide React.
+
+Special thanks to the Open Source Developers' Community (OSDC) for organizing the On-Device AI Hackathon.
 
 ---
 
